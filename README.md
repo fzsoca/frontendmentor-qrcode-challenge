@@ -10,6 +10,9 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
+- [Solution repository](https://github.com/fzsoca/frontendmentor-qrcode-challenge)
+- [Live site](https://fzsoca.github.io/frontendmentor-qrcode-challenge/)
+
 ## My process
 
 - I just wanted to get used to check out the platform, so I went with the most minimalistic approach.
